@@ -6,9 +6,11 @@
   <a href="https://github.com/oliveirarod">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirarod&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+  
 <br/> 
  
+ #### Tecnologias utilizadas:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rod-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Rod-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -20,7 +22,11 @@
   <img align="center" alt="Rod-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
-  ##
+<br/>
+  
+##
+
+<br/>
   
 <div> 
   <a href="mailto:rodrigo.oliveira9104@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
