@@ -1,13 +1,14 @@
 ## Olá, eu sou o Rodrigo de Oliveira, desenvolvedor front-end!
 
-
-
+<br/>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/oliveirarod">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirarod&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+ 
+<br/> 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rod-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Rod-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
