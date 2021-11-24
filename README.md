@@ -1,4 +1,4 @@
-## Olá, eu sou o Rodrigo de Oliveira, desenvolvedor front-end!
+## Olá, eu sou o Rodrigo de Oliveira! 👋
 
 <br/>
 
@@ -9,7 +9,7 @@
   
 <br/> 
  
- #### Tecnologias utilizadas:
+ #### Linguagens e tecnologias que utilizo:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rod-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -20,6 +20,9 @@
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Rod-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Rod-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Rod-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  <img align="center" alt="Rod-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Rod-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg">
 </div>
 
 <br/>
