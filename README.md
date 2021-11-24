@@ -1,9 +1,11 @@
-### Olá! eu sou o Rodrigo de Oliveira
+## Olá, eu sou o Rodrigo de Oliveira, desenvolvedor front-end!
 
-<div align="center">
+
+
+
+<div align="center" style="display: inline_block">
   <a href="https://github.com/oliveirarod">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=oliveirarod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirarod&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirarod&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
