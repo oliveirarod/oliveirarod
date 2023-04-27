@@ -1,17 +1,25 @@
-# Olá, eu sou Rodrigo de Oliveira 👋
+# Olá, eu sou Rodrigo de Oliveira <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 
 ## Sobre mim
-- 👨‍💻 Sou um desenvolvedor front-end
+- 👨‍💻 Sou um desenvolvedor Front-end
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente aprendendo React.js e Next.js
 - 💡 Adoro aprender coisas novas e resolver desafios
 - 📫 Como me encontrar: rodrigo.oliveira9104@outlook.com ou https://www.linkedin.com/in/rodrigo-de-oliveiraa/
 
+<div>
+  <br>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveirarod&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirarod&theme=radical)
+</div>
+
 ## Habilidades de Front-end
 - HTML
 - CSS
 - SASS
-- JavaScript/TypeScript
+- JavaScript/TypeScript <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 - Consumo de APIs
 - Angular
 - RXJS
@@ -23,6 +31,7 @@
 - Angular Material
 - Testes Unitários
 - Microservices (micro-frontend)
+
 
 ## Habilidades de Back-end
 - Node.js
