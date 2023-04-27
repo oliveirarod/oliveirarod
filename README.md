@@ -16,9 +16,9 @@
 </div>
 
 ## Habilidades de Front-end
-- HTML <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+- HTML
 - CSS
-- SASS
+- SASS <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 - JavaScript/TypeScript
 - Consumo de APIs
 - Angular
