@@ -37,14 +37,14 @@
 - Node.js
 - MySQL
 - Criação de APIs
-- Docker
 
-## Outras tecnologias/programas do dia a dia
+## Outros conhecimentos (DevOps, Softwares...)
 - Jenkins
 - Jira
 - Metodologias Ágeis
 - GitHub
 - BitBucket
+- Docker
 - Postman
 - NVM
 
