@@ -16,10 +16,10 @@
 </div>
 
 ## Habilidades de Front-end
-- HTML
+- HTML <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 - CSS
 - SASS
-- JavaScript/TypeScript <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+- JavaScript/TypeScript
 - Consumo de APIs
 - Angular
 - RXJS
