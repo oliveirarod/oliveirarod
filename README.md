@@ -49,7 +49,7 @@
 - NVM
 
 ## Projetos
-- Gerenciamento de finanças (em React) - https://github.com/oliveirarod/ticto-teste
+- Gerenciamento de finanças - https://github.com/oliveirarod/ticto-teste
 - Dashboard para análise de estatísticas gráficas - https://github.com/oliveirarod/challenge-bten-frontend
 - E-commerce - https://github.com/oliveirarod/teste-doubleit
 
