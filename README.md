@@ -47,6 +47,8 @@
 - Docker
 - Postman
 - NVM
+- Firebase
+- Heroku
 
 ## Projetos
 - Gerenciamento de finanças - https://github.com/oliveirarod/ticto-teste
