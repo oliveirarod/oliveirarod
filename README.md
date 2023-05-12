@@ -53,6 +53,7 @@
 ## Projetos
 - Gerenciamento de finanças - https://github.com/oliveirarod/ticto-teste
 - Dashboard para análise de estatísticas gráficas - https://github.com/oliveirarod/challenge-bten-frontend
+- Wizard com formula´rio - https://github.com/oliveirarod/converteme-test
 - E-commerce - https://github.com/oliveirarod/teste-doubleit
 - Blog - https://github.com/oliveirarod/gen-test
 
