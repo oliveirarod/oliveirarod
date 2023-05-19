@@ -56,6 +56,7 @@
 - Wizard com formulário - https://github.com/oliveirarod/converteme-test
 - E-commerce - https://github.com/oliveirarod/teste-doubleit
 - Blog - https://github.com/oliveirarod/gen-test
+- Gestão de clientes (CRUD) - https://github.com/oliveirarod/crud-test
 
 ## Idiomas
 - Português (nativo)
