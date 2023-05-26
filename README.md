@@ -30,7 +30,7 @@
 - Materialize
 - Angular Material
 - Testes Unitários
-- Microservices (micro-frontend)
+- Micro-frontend
 
 
 ## Habilidades de Back-end
