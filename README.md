@@ -40,6 +40,7 @@
 
 ## Outros conhecimentos (DevOps, Softwares...)
 - Jenkins
+- SonarQube
 - Jira
 - Metodologias Ágeis
 - GitHub
